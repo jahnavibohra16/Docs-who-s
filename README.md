@@ -1,10 +1,12 @@
-# Docs-who-s
+# README.md
+## DOC-WHO'S
+
 This is my first React project, designed to showcase my frontend development skills. The app serves as a file/document management system where users can view, download, open, and drag files within the interface. It features smooth animations and a modern UI.
 
 ### Technologies Used:
-- **React** for building dynamic UI components
-- **Tailwind CSS** for efficient and responsive styling
-- **Framer Motion** for smooth animations and interactions
+- **React** for UI components
+- **Tailwind CSS** for styling
+- **Framer Motion** for animations
 
 ### How to Run the Project:
 1. Install dependencies:

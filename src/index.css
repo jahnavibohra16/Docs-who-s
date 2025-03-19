@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'Delight';
+  src: url("./delight-font-family/delight-semibold.otf") format('opentype'); 
+}
+
+* {
+  font-family: 'Delight', sans-serif;
+}
+
+::selection{
+  color: rgb(228, 158, 17);
+}
+
